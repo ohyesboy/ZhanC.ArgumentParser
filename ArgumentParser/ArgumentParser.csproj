@@ -5,5 +5,12 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
-
+  <PropertyGroup>
+    <PackageId>ZhanC.ArgumentParser</PackageId>
+    <Version>1.0.0</Version>
+    <Author>Zhan Cao</Author>
+    <PackageProjectUrl>https://github.com/ohyesboy/ZhanC.ArgumentParser</PackageProjectUrl>
+    <Description>reader.ReadArguments&lt;YourArgumentType&lt;(new string[]{"arg1", "-StringArg1",
+      "-BoolArg1", "-BoolArg2", "False" });</Description>
+  </PropertyGroup>
 </Project>
